@@ -1,3 +1,3 @@
-let message = 'Probando cosas juas';
+let message = 'insert conflict here';
 console.log(message);
-console.log('un cambio para nuevo commit en branch1');
+console.log('un cambio para nuevo commit en branch2');
